@@ -1,7 +1,9 @@
 ## Hello Gainge Campus World
 
 ### About commit message
+
 commit의 종류를 뜻합니다.
+
 - feat: 기능 추가
 - fix: 버그 패치, 오류 수정
 - docs: 문서 관련 작업
@@ -11,3 +13,5 @@ commit의 종류를 뜻합니다.
 - test: 테스트 코드 관련
 - perf: 코드 성능 최적화, 속도 향상
 - ci: CI 관련 작업
+
+thomas-pr-test
